@@ -1,4 +1,4 @@
-//program to calculate 
+//program to calculate the fine for overdue library books
 /*
  Author:Richole Oduor
  Reg No : CT101/G/25060/24
