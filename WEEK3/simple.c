@@ -1,8 +1,8 @@
-//program to calcilate simple interest
+//program to calculate simple interest
 /*
  Author:Richole Oduor
  Reg No : CT101/G/25060/24
- Date: 
+ Date: 27/09/2024
  */
 //Preprocessor Directive
 #include <stdio.h>
