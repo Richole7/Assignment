@@ -13,7 +13,7 @@ int main () {
 float principle,time,rate,simple interest;
 //Input principle, time and rate
 printf("Enter the principle amount");
-scanf ("%f", &principal);
+scanf ("%f", &principle);
 
 return 0;
 }
