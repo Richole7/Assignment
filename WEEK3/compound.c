@@ -8,11 +8,11 @@
 #include <stdio.h>
 #include <math.h>
 int main () {
-    float principal,time,rate,compound interest,amount;
+    float principle,time,rate,compound interest,amount;
     int n;
-    //Input principal,rate,time and compounding frequency
-    printf("Enter the principal amount:");
-    scanf("%f",&principal);
+    //Input principle,rate,time and compounding frequency
+    printf("Enter the principle amount:");
+    scanf("%f",&principle);
 
     printf("Enter the rate of interest(as percentege):");
     scanf("%f",&rate);
@@ -23,8 +23,8 @@ int main () {
 
     printf("Enter the number of times interest is compounded per year:");
     scanf("%d",&n);
-    //Calculate compound interest amount = principal *pow((1+rate/n),n*time);
-    compound interest = amount - principal;
+    //Calculate compound interest amount = principle *pow((1+rate/n),n*time);
+    compound interest = amount - principle;
 
     //Output the results
     printf ("CompoundInterest = %2f\n",compoundinterest);
