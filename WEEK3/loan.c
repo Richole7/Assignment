@@ -1,4 +1,4 @@
-//program to calculate loan
+//program to calculate if one qualifies for a loan
 /*
  Author:Richole Oduor
  Reg No : CT101/G/25060/24
