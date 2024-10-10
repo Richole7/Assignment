@@ -1,4 +1,4 @@
-\// while do for output numbers
+// while do for output numbers
 #include <stdio.h>
 int main () {
     int start, sum =0,stop;
