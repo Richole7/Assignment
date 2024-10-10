@@ -1,4 +1,4 @@
-//program to calculate
+//program to calculate total amount to pay
 /*
 Author:Richole Oduor
 Reg No:CT101/G/25060/24
