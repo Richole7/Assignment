@@ -1,4 +1,10 @@
-//Array in C - 2D arrays
+//Arrays in C - 2D array
+/*
+Author:Richole Oduor
+Reg No:CT101/G/25060/24
+Date: 15/10/2024
+*/
+//Preprocessor Directive
 #include<stdio.h>
 int main () {
     int r,i;
